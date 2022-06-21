@@ -15,7 +15,7 @@ const INITIALSTATE: TodoState = {
             id: '1',
             desc: "Aprender React",
             complete: false
-        },
+        }
     ],
     complete: 0,
     pending: 2
