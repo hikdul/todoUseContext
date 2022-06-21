@@ -10,7 +10,7 @@ en resumen esta es una app para usarse como practica
 
 [![React](https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=React&logoColor=white&labelColor=839e87)]()
 
-## Faltantes
+## Tareas
  
  :black_square_button: Agregar una nueva tarea
  <br/>
